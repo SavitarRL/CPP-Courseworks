@@ -1,6 +1,6 @@
 # CPP-Courseworks
 
-### Temporary place to display my C++ research computing coursework
+### A "temporary" place to display my C++ research computing coursework
 
 For convenience, please read the respective `README.md` files for the respective files, as the code is compiled in a Docker container.
 
