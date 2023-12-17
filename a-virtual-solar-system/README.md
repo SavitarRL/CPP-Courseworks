@@ -1,6 +1,6 @@
 # A Virtual Solar System
 
-This is the starting repository for assignment 2 of Research Computing with C++. You may add or remove C++ files in any directory. You should organise the files as you see fit but do read the Folder Structure section below to understand the intended use of the existing folders.
+<!---This is the starting repository for assignment 2 of Research Computing with C++. You may add or remove C++ files in any directory. You should organise the files as you see fit but do read the Folder Structure section below to understand the intended use of the existing folders.--->
 
 ## Installing dependencies
 
