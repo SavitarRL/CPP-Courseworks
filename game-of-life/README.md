@@ -16,8 +16,6 @@ This project is maintained by [Dr. Jamie Quinn](http://jamiejquinn.com/). It is 
 
 This assignment is done and completed by Pak To Lau Ryan 
 
-(Student Number: 19070595)
-
 Build Instructions
 ------------------
 
